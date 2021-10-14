@@ -69,9 +69,9 @@ int main()
     cout.tie(0);
     freopen("../../input.txt", "r", stdin);
     freopen("../../output.txt", "w", stdout);
-    // int test;
-    // cin >> test;
-    // while (test--)
+    int test;
+    cin >> test;
+    while (test--)
     {
         read();
         solve();
